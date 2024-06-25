@@ -1,2 +1,0 @@
-# Wazzup
- Realtime Chat Application
