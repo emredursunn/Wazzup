@@ -25,6 +25,7 @@ Wazzup is a cutting-edge chat application developed using React Native, TypeScri
 - **Expo**: For streamlined development and deployment.
 - **Firebase Realtime Database**: For real-time data synchronization.
 - **Google Gemini AI**: For AI-powered chat responses.
+- **Redux Toolkit**: For state management.
   
 ## Screenshots
 
