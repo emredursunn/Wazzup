@@ -58,7 +58,14 @@ Wazzup is a cutting-edge chat application developed using React Native, TypeScri
 
 
 ## Installation
+   
+```git clone https://github.com/emredursunn/Wazzup.git```
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/emredursunn/Wazzup.git
+```cd Wazzup```
+
+```npm install```
+
+```npm start```
+
+**YOU NEED A GEMINI API KEY. AFTER GET IT, CHANGE API KEY VARIABLE IN CHAT.TSX FILE**
+https://ai.google.dev/gemini-api/docs/api-key
