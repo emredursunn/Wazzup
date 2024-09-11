@@ -35,7 +35,7 @@ const Chat = ({ navigation, route }: Props) => {
     const [recording, setRecording] = useState<Audio.Recording | undefined>();
     const [permissionResponse, requestPermission] = Audio.usePermissions();
 
-    const API_KEY = "AIzaSyBmXXRftQZCxRtIAOUbO9QAYE3bFySrdWw"
+    const API_KEY = "YOUR_API_KEY"
     const defaultPrompt = "I use you as an auto reply generator on messaging app, I will give you the talk. You will produce an answer appropriate to the topic. Keep it in the mood for daily conversation. If the conversation is empty, you can start the conversation with hello etc. When the conversation gets stuck, you can open new topics. Generally focus on recent posts. I separated the messages with this sign '\'. Answers must be a maximum of 70 characters. Speech: "
 
     useEffect(() => {
