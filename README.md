@@ -67,5 +67,6 @@ Wazzup is a cutting-edge chat application developed using React Native, TypeScri
 
 ```npm start```
 
-**YOU NEED A GEMINI API KEY. AFTER GET IT, CHANGE API KEY VARIABLE IN CHAT.TSX FILE**
+**YOU NEED A GEMINI API KEY. AFTER GET IT, CHANGE API KEY VARIABLE IN "CHAT.TSX" FILE**
+
 https://ai.google.dev/gemini-api/docs/api-key
