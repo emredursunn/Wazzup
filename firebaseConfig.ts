@@ -11,7 +11,7 @@ import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAGP9tt9hY8vDa_fj_CZFWGoAMbWh62o-o",
+    apiKey: process.env.FIREBASE_API_KEY,
     authDomain: "chat-app-a66b0.firebaseapp.com",
     projectId: "chat-app-a66b0",
     storageBucket: "chat-app-a66b0.appspot.com",
